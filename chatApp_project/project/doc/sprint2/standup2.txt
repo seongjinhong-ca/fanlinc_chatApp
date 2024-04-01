@@ -1,0 +1,42 @@
+Oct 23rd Standup
+
+Don
+Did:
+     * nothing
+Will do:
+     * finish create chat api
+Blocked:
+     * nothing
+
+Smit
+Did
+    * nothing
+Will do
+    * have sprint 2 meeting
+Blocked
+  * none
+
+Jun
+Did
+    * Finished sprint 1 on JIRA
+    * Create sprint 2 and moved over stories
+Will do
+    * Sprint 2 Meeting
+Blocked
+    * None
+
+Chris
+Did
+     *nothing
+Will do
+      * Sprint 2 Meeting
+Blocked
+      *none
+
+Hoang
+Did:
+     *nothing
+Will do:
+     *sprint meeting
+Blocked:
+     *none

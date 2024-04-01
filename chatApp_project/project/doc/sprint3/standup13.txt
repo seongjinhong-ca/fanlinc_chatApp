@@ -1,0 +1,45 @@
+All standups are copy pasted from our Discord channel, we run standups during weekends too, that is why you see 14 in total.
+
+Nov 17th Standup
+
+Don
+Did:
+     * nothing (c73 assignment)
+Will do:
+     * front end chat management admin panel
+Blocked:
+      * nothing
+
+Smit
+Did:
+     * privacy settings back end
+     * front end for profile picture
+Will do:
+     * front end for privacy settings
+Blocked:
+      * nothing
+
+Jun
+Did:
+     * explore page, more integration and polishing
+Will do:
+     * finish up chat joining, invitation and more bug fixing
+Blocked:
+      * nothing
+
+Will
+Did:
+    * Nothing
+Will do:
+    * Add Material-UI to old things
+    * Construct and complete documentation
+Blocked:
+    * Nothing
+
+Hoang
+Did:
+     * upload image, fix some styling
+Will do:
+     * get profile images for posts
+Blocked:
+     * nothing

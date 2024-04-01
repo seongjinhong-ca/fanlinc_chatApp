@@ -1,0 +1,43 @@
+Oct 25th Standup
+
+Hoang
+Did:
+    *attend gm
+Will do:
+    *nothing yet
+Blocked:
+     *none
+
+Jun
+Did:
+    * Finished chat server backend
+Will do:
+    * Chat front-end
+Blocked:
+    * None
+
+Smit
+Did:
+    * Added profile picture endpoint in identity service
+Will do:
+    * Add other endpoints to edit user information (BES-15)
+Blocked:
+    * None
+
+Will
+Did:
+     *nothing (sorry midterm tomorrow)
+Will do:
+     *learn react
+     * finish backends
+     * take on additional tasks accordingly
+Blocked:
+     *none
+
+Don
+Did:
+     *nothing
+Will do:
+     * back end for chat management
+Blocked:
+     * none

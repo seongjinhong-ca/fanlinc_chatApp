@@ -1,0 +1,43 @@
+Oct 29th Standup
+
+Don
+Did:
+     * nothing
+Will do:
+     * user related functionalities of chat
+Blocked:
+     * nothing
+
+Hoang
+Did:
+     *merge branch
+Will do:
+     *nothing yet
+Blocked:
+     *nothing
+
+Will
+Did:
+     * nothing
+Will do:
+     * learn react
+     * do tasks dependent on react (BES-30, 37)
+      * Hoang's Gigantic PR
+Blocked:
+     * nothing
+
+Jun
+Did:
+     * review PR
+Will do:
+     * integration with chat API (maybe also dockerize it)
+Blocked:
+     *nothing
+
+Smit
+Did:
+     *nothing
+Will do:
+     * profile front end
+Blocked:
+     * none

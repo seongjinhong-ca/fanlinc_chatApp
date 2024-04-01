@@ -1,0 +1,47 @@
+All standups are copy pasted from our Discord channel, we run standups during weekends too, that is why you see 14 in total.
+
+Nov 18th Standup
+
+Smit
+Did:
+     * Finished BES-4
+     * Front end for privacy settings
+     * Front end for profile picture
+Will do:
+     * Bug fixes
+Blocked:
+     * nothing
+
+Will
+Did:
+    * Constructed and completed documentation
+Will do:
+    * Party
+Blocked:
+    * Nothing
+
+Hoang
+Did: 
+     * retrieved poster's information for all posts
+     * bug fixes and styling changes
+     * profile minor addition
+Will do:
+     * nothing
+Blocked:
+     * nothing
+
+Don
+Did:
+     * Attempted to complete front end
+will do:
+     * nothing
+Blocked:
+     * nothing
+
+Jun
+Did:
+     * Nothing much, last day just some document review 
+will do:
+     * nothing
+Blocked:
+     * nothing

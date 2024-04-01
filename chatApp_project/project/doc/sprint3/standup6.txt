@@ -1,0 +1,57 @@
+All standups are copy pasted from our Discord channel, we run standups during weekends too, that is why you see 14 in total.
+
+Nov 10th Standup
+
+Smit
+Did:
+    * Fixed get user profile by id endpoint
+Will do:
+    * BES-4
+Blocked:
+    *nothing
+
+Jun
+Did:
+    * Persistent login sessions for React
+Will do:
+    * Create a simple sidebar for users
+Blocked:
+    * nothing
+
+Chris
+Did:
+    * Analyzed task BES-6 and created sub-tasks
+    * Read the documentation for chat-management to understand code-base
+    * Discussed with Don about implementation of chat-management
+Will do:
+     * Back-End API to get a list of roles (BES-63)
+Blocked:
+      * Nothing
+
+Will
+Did:
+    * Create subtasks for BES-14
+Will do:
+    * Begin work on subtasks (BES-69, 70, 71)
+    * Add Material-UI to old things
+Blocked:
+    * Nothing
+
+Hoang
+Did:
+     *order for events and subcommunities in community page
+     *notfound page (jun already added it though)
+Will do:
+     *post component
+     *confirm modal
+     *event page continued
+Blocked:
+     *nothing
+
+Don
+Did:
+     * bug fix chatid now generates ids correctly upon chat creation
+Will do:
+     * invite user to chat
+Blocked:
+     * none

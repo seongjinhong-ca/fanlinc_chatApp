@@ -1,0 +1,47 @@
+Nov 2nd Standup
+
+Smit
+Did:
+    * profile front end
+Will do:
+     * connect to identity service
+blocked:
+     * none
+
+Jun
+Did:
+    * Merged basic UI for chat room, this also includes CORS for chat management service
+Will do:
+     * Add some front-end for event CRUD @Hoang is the service complete for events?
+blocked:
+     * none
+
+Don
+Did:
+     * Add user for chat management
+Will do:
+     * remove user
+     * is user in chat
+     * invite user
+     * accept chat invite
+Blocked:
+     * None
+
+Hoang
+Did:
+     *Made a PR
+     *S3 bucket
+Will do:
+     *merge
+Blocked:
+      *PR approval @Jun @Will
+[1:13 AM] Hoang: @Jun it’s been complete for days, though i made creating events tied to users
+
+Will
+Did:
+     * Hoang's PRs (merged already)
+Will do:
+     * learn react
+     * do tasks dependent on react (BES-30, 37)
+Blocked:
+     * nothing

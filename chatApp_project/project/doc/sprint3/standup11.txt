@@ -1,0 +1,46 @@
+All standups are copy pasted from our Discord channel, we run standups during weekends too, that is why you see 14 in total.
+
+Nov 15th Standup
+
+Jun
+Did:
+    * Not much, midterm today
+Will do:
+    * Continue to work on chat sidebar, also will finish integrating the chat page with the sidebar / dashboard.
+Blocked:
+    * Nothing
+
+Hoang
+Did:
+     * create, edit post
+Will do:
+    * create community-service endpoints in the gateway
+    * use upload image for community, event, post images
+    * add create, view group chats in community page
+Blocked:
+    * need a gateway endpoint for upload image @Smit
+
+Will
+Did:
+    * Nothing
+Will do:
+    * Begin work on subtasks (BES-69, 70, 71)
+    * Add Material-UI to old things
+Blocked:
+    * Nothing
+
+Don
+Did:
+     * nothing
+Will do:
+     * front end for chat management
+Blocked:
+      * nothing
+
+ChrisSJ
+Did:
+      * nothing
+Will do:
+      * will do BES-65, BES-67
+Blocked:
+      *nothing

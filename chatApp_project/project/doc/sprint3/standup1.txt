@@ -1,0 +1,33 @@
+All standups are copy pasted from our Discord channel, we run standups during weekends too, that is why you see 14 in total.
+
+Nov 5th Standup
+
+Don:
+Did:
+     * nothing (c73 assignment)
+Will do:
+     * remove and invite user
+Blocked:
+     * nothing
+	 
+Hoang:
+Did:
+     *nothing
+Will do:
+     *nothing
+Blocked:
+      *nothing
+	  
+Smit: Did:
+     *nothing
+Will do:
+     *nothing
+Blocked:
+      *nothing
+
+Will: Did:
+     * nothing
+Will do:
+     * nothing
+Blocked:
+      * nothing

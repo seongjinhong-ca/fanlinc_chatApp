@@ -1,0 +1,50 @@
+All standups are copy pasted from our Discord channel, we run standups during weekends too, that is why you see 14 in total.
+
+Nov 16th Standup
+
+Will
+Did:
+    * BES-69, 70, part of 71, frontend delegated to Jun
+Will do:
+    * Add Material-UI to old things
+    * Construct and complete documentation
+Blocked:
+    * Nothing
+
+Jun
+Did:
+    * Made PRO badge UI, finished chat integration 
+Will do:
+    * Intergation of feed page
+Blocked:
+    * Nothing
+
+Don
+Did:
+      * created endpoint to get list of community associated chats in gateway 
+      * process of learning front end development
+Will do:
+       * chat management admin panel
+Blocked:
+     * nothing
+
+Smit
+Did:
+ * created endpoint on gateway
+ * plan privacy ticket
+Will do
+ * privacy profile ticket
+Blocked:
+ * nothing
+
+Hoang
+Did:
+     * finish community-event-post front end
+     * endpoint to check if use posted the post
+     * endpoint listing all events in a community
+Will do:
+     * use dispatched identity for community-event-post
+     * use upload image endpoint for images
+     * use get chats for community
+Blocked:
+     * nothing

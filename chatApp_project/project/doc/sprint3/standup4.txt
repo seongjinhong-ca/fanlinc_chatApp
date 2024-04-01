@@ -1,0 +1,37 @@
+All standups are copy pasted from our Discord channel, we run standups during weekends too, that is why you see 14 in total.
+
+Nov 8th Standup
+
+Hoang
+Did:
+     *finish Join, Leave community front  end
+     *made community page that displays subcommunities, events, chats (no chats yet) (also they have no order)
+Will do:
+     *finish community page (with some ordering system)
+Blocked:
+     *none
+
+Jun
+Did:
+     * Made a small utility to start all services automatically
+Will do:
+     * Create a basic gateway and integrate full authentication with memorization & profile storage.
+Blocked:
+     *none
+
+Chris
+Did:
+     *sprint 3 meeting yesterday
+     *none today due to mostly c37 midterm preparation
+Will do:
+     *Will discuss with Don about the sprint 3 tasks
+Blocked:
+     *none
+
+Don
+Did:
+     * nothing (got destroyed by cscc37 midterm)
+Will do:
+     * remove/invite users
+Blocked:
+     * nothing

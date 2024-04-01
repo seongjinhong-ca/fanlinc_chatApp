@@ -1,0 +1,51 @@
+All standups are copy pasted from our Discord channel, we run standups during weekends too, that is why you see 14 in total.
+
+Nov 12th Standup
+
+Jun
+did:
+     * Add ability to list all communities on the sidebar
+Will do:
+     * Add a page that shows communities joined by the user with more detailed information
+Blocked:
+     * API to retrieve a list of chats.
+
+Hoang
+Did:
+     * confirm modal and function
+     * delete event
+     * post modal
+Will do:
+     * finish post
+     * post gallery in event
+Blocked:
+     * nothing
+
+ChrisSJ
+Did:
+     * met with Don and got assisted on understanding the flow of the chat management service
+     *  completed BES-64 - Create an API to add a role to a user
+     *  completed BES-63Create an API to get a list of available roles
+     * started working on BES-65 Create an API to remove a role from a user
+Will do:
+     *  install ubuntu
+     * complete -65 - Create an API to remove a role from a user
+Blocked:
+     * nothing
+
+Will
+Did:
+    * Nothing
+Will do:
+    * Begin work on subtasks (BES-69, 70, 71)
+    * Add Material-UI to old things
+Blocked:
+    * Nothing
+
+Don
+Did:
+     * assisted chris on his tasks
+Will do:
+     * api to get list of chats given a user
+Blocked:
+     * nothing

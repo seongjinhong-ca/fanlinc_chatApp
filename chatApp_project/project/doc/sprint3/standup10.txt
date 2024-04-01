@@ -1,0 +1,55 @@
+All standups are copy pasted from our Discord channel, we run standups during weekends too, that is why you see 14 in total.
+
+Nov 14th Standup
+
+Jun
+Did:
+     * Mainly just review for midterm, made some changes to the front-end, might PR Sat.
+Will do:
+     * Continue to work on chat sidebar, also will finish integrating the chat page with the sidebar / dashboard.
+Blocked:
+     * Nothing
+
+Hoang
+Did:
+    * minor front end changes
+Will do:
+    * finish posts in events
+    * edit event, post forms to upload images to s3 through smit’s endpoint
+Blocked:
+     * nothing
+
+Smit
+Did:
+  * Review for midterm
+Will do:
+  * front end
+Blocked:
+  * Gateway issues
+
+Don
+Did:
+     * api to associate community with chat
+     * api to get a list of chats associated with a community
+Will do:
+     * front end
+Blocked:
+     * nothing
+
+ChrisSJ
+Did: 
+      *Review for midterm
+Will do:
+       *complete BES-65 Create an API to remove a role from a user
+       *Start BES-67 Implement feature to assign the mute role for a certain time period
+Blocked:
+       *nothing
+
+Will
+Did:
+    * Nothing
+Will do:
+    * Begin work on subtasks (BES-69, 70, 71)
+    * Add Material-UI to old things
+Blocked:
+    * Nothing

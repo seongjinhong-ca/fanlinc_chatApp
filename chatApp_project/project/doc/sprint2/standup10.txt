@@ -1,0 +1,36 @@
+Oct 31st Standup
+
+Don
+Did:
+     * nothing
+Will do:
+     * add users to chat
+Blocked:
+      * none
+
+Hoang
+Did:
+     *add sprint2 docs
+     *add description to event
+Will do:
+     *ui
+Blocked:
+     *nothing
+
+Smit
+Did:
+    * nothing (mostly finished my task, just need to pick up few other tickets)
+Will do:
+     * profile front end
+blocked:
+     * none
+
+Chris
+sorry for not posting what i did for past few days.
+Did:
+     *nothing (today I did nothing due to a mark changed from 87% to 50% for one of my courses. I was busy dealing with that problem since i woke up today, and yes this sounds like an excuse...)
+Will do:
+      *will catch up with my work
+      *will talk about what i did in past few days when I did not post daily stand ups.
+blocked: 
+      *the marking issue didn't solve yet.

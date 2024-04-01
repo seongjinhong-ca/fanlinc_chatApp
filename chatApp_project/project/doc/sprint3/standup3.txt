@@ -1,0 +1,49 @@
+All standups are copy pasted from our Discord channel, we run standups during weekends too, that is why you see 14 in total.
+
+Nov 7th Standup
+
+Jun
+Did:
+    - Planning meeting
+    - Reviewed PR
+Will do:
+    - Start to create a simple gateway that will pass requests down to sub-services
+Blocked:
+    - Nothing
+
+Don
+Did:
+     * nothing (c37 midterm tomorrow)
+Will do:
+     * remove/invite users
+Blocked:
+     * nothing
+	
+Hoang
+Did:
+     *meeting
+     *finish posts, adding posts to event (backend)
+     *add image upload to event front end (doesn't actually upload image to server)
+     *started Community front end
+Will do:
+    *finish  Community front end
+Blocked:
+     *nothing
+
+Smit:
+Did:
+    - Planning meeting
+Will do:
+    - Plan sprint 3 tasks (create sub tasks) and start.
+Blocked:
+    - Nothing
+
+Will: Did:
+    * Peer reviews
+    * Planning meeting
+    * Reviewed PR
+Will do:
+    * Pro badge
+    * Integration
+Blocked:
+    * Nothing

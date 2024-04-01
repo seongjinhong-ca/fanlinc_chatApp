@@ -1,0 +1,44 @@
+Oct 28th Standup
+
+Will
+Did:
+     * BES-28 
+Will do:
+     * learn react
+     * do tasks dependent on react (BES-30, 37)
+Blocked:
+     * nothing
+
+Don
+Did:
+     * feature to edit chat name and chat visibility
+Will do:
+     * add user to chat 
+     * remove user from chat
+Blocked:
+     * none
+    
+Jun
+Did:
+     * nothing much
+Will do:
+     * implement the integration with chat management
+Blocked:
+     * none
+
+Smit
+Did:
+     * Internal Requests (Email -> UID, add user to Neo4j on create)
+Will do:
+     * profile front end
+Blocked:
+     * none
+
+Hoang
+Did:
+    *create/finish endpoints: changproficiencylevel, host event, cohost event, attend event, delete event, edit event
+    *update documentation
+Will do:
+     *nothing
+Blocked:
+     *nothing

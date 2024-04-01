@@ -1,0 +1,31 @@
+All standups are copy pasted from our Discord channel, we run standups during weekends too, that is why you see 14 in total.
+
+Nov 9th Standup
+
+Hoang
+Did:
+    *did some changes to community front end
+Will do:
+    *event front end
+Blocked:
+    *nothing
+
+Jun
+Did:
+    * Add some changes to allow proxing of requests from gateway
+Will do:
+    * Make login/signup better
+Blocked:
+    * @Smit Get user profile by ID is broken (cannot stringify Response class), can you look into that? You prob want to just change it on my branch feature/login-gateway
+
+Don
+Did:
+     * Remove user from chat
+Will do:
+     * Invite user to a given chat by email
+     * Accept chat invite
+     * Get Chris up to speed with chat management service
+     * Get list of chats that a user is part of
+     * Front end for all developed back-end features
+Blocked:
+     * Nothing

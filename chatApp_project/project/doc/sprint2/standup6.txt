@@ -1,0 +1,58 @@
+Oct 27th Standup
+
+Will
+Did:
+     * BES-28 initial solution, one bug left
+     * PR
+Will do:
+     * learn react
+     * do tasks dependent on react
+     * take on additional tasks accordingly
+Blocked:
+     * nothing
+
+Jun
+Did:
+    * Finished integrating chat UI with the actual server
+Will do:
+    * UI for listing chatrooms
+    * Integrate with chat management API
+Blocked:
+    * Chat management API @Don
+
+Don
+Did:
+     * Finished Chat creation feature that creates a new chat with a given user as a moderator
+     * Wrote python scripts to initialize the mongodb's data
+     * Implemented Get all chats, get chat endpoints
+     * ChatManagement MongoDAO now is able to search/query for items that follow a pattern
+     * Implemented Get list of users for chat
+     * Progress for End point documentation
+will do:
+    * Change the name of chat
+    * Change the visibility of chat to public/private
+    * Add user to chat
+    * remove user from chat
+    * is user in chat
+    * Continue endpoint documentation
+Blocked:
+    * None
+
+
+Smit
+Did:
+     * Front end for profile page
+Will do:
+     * Connect identity service with profile page
+Blocked:
+     *none
+
+Hoang
+Did:
+     *modify profile service to allow join community with date, leave community
+     *create event service: includes create event, update event
+     *modify profile service to allow hosting, attending events
+Will do:
+    *finish event service
+Blocked:
+    *nothing

@@ -1,0 +1,9 @@
+jwt:
+  password: $JWT_PASSWORD
+mailer:
+  api_key: $SENDGRID_API_KEY
+firebase:
+  api_key: $FIREBASE_WEB_API_KEY
+  bucket: $FIREBASE_BUCKET
+community-service:
+  url: $COMMUNITY_SERVICE

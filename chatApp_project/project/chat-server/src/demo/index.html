@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+    <head>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.3.0/socket.io.js"></script>
+    </head>
+<body>
+
+
+<script>
+
+    const DEFAULT_ROOM = "myroom";
+    const socket = io();
+
+    function startWithUid(uid) {
+        socket.emit('SET_UID', uid);
+        socket.emit('JOIN_ROOM', DEFAULT_ROOM);
+    }
+
+    function sendMessage(msg) {
+        socket.emit('SEND_MESSAGE', {
+            roomId: DEFAULT_ROOM,
+            text: msg,
+        });
+    }
+
+    socket.on('NEW_MESSAGE', function(msg) {
+        console.log("New message received: ", msg);
+    });
+</script>
+</body>
+</html>

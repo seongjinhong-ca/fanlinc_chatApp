@@ -1,0 +1,54 @@
+All standups are copy pasted from our Discord channel, we run standups during weekends too, that is why you see 14 in total.
+
+Nov 6th Standup
+
+Smit
+Did:
+     * nothing
+Will do:
+     * sprint 3 planning
+Blocked:
+      * nothing
+
+Will
+Did:
+     * nothing
+Will do:
+     * sprint 3 planning
+Blocked:
+      * nothing
+
+Jun
+Done:
+    * Not much
+Todo:
+    * Prep for demo tmr
+Blocked:
+    * Nothing
+
+Hoang
+Did:
+     *sprint3 planning
+     *add event theme image link 
+     *posts creation(backend)
+     *add posts to event service
+Will do:
+      *image uploading, removing service
+Blocked:
+      *nothing
+
+Don
+Did:
+    * peer review
+Will do:
+    * remove/invite users
+Blocked:
+     * nothing
+
+Chris
+Did:
+      *Peer review
+Will do:
+     *sprint 3 discussion
+Blocked:
+     *none

@@ -1,0 +1,13 @@
+<% include partials/head.ejs %>
+
+<div id="app">
+    <ul class="process-list">
+        <li v-for="[name] in processes">{{name}}</li>
+    </ul>
+    <div class="log-container">
+        <pre v-for="[name] in processes">{{ logs[name] }}</pre>
+    </div>
+</div>
+
+<% include partials/statusScript.ejs %>
+<% include partials/foot.ejs %>

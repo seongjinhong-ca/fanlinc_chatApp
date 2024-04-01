@@ -1,0 +1,54 @@
+All standups are copy pasted from our Discord channel, we run standups during weekends too, that is why you see 14 in total.
+
+Nov 13th Standup
+
+Jun
+Did:
+     * not much today (because interviews)
+Will do:
+     * better UI for chat, list of chats UI on sidebar
+Blocked:
+     * chat list API
+
+Hoang
+Did:
+     * post + event continued
+Will do:
+     * finish it
+Blocked: 
+      * nothing
+
+Smit
+Did:
+     * image upload (backend, took too long)
+Will do:
+     * image upload (front end)
+Blocked: 
+      * nothing
+
+Don
+Did:
+     * API to get list of chats for a user
+Will do:
+     * Front end dev for chat management
+     * New API to edit communityId for chat
+     * New API to get a list of chats for a given community
+Blocked:
+     * Nothing
+
+Will
+Did:
+    * Nothing
+Will do:
+    * Begin work on subtasks (BES-69, 70, 71)
+    * Add Material-UI to old things
+Blocked:
+    * Nothing
+
+Chris
+Did:
+     *Made some changes to DeleteRoleForm and created end points for Deleting a role
+Will do:
+     *Complete deleting a role task (BES - 65)
+Blocked:
+     * Nothing

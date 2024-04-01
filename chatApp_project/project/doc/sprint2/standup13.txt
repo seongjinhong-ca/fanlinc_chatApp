@@ -1,0 +1,46 @@
+Nov 3rd Standup
+
+Hoang
+Did:
+     *merged create event ui
+Will do:
+     *nothing
+Blocked:
+      *none
+
+Smit
+Did:
+    * nothing (midterm tomorrow) :cry: 
+Will do:
+     * connect identity service
+blocked:
+     * none
+
+Don
+Did:
+     * nothing (graded all the a08 exams today)
+Will do:
+     * remove user
+     * list user chats
+     * invite user
+     * accept chat invite
+Blocked:
+     * none
+
+Jun
+Did:
+     * Updated system design doc to include new WebSocket chat server
+Will do:
+     * Probably can't do any more tasks, A20 all day tmr, might do some final modifications on documents
+Blocked:
+     * none
+
+Will
+Did:
+     * Began react tutorials
+     * Began BES-30
+Will do:
+    * Start BES-37 
+    * Finish BES-30
+Blocked:
+     * nothing

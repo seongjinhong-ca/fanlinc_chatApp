@@ -1,0 +1,47 @@
+All standups are copy pasted from our Discord channel, we run standups during weekends too, that is why you see 14 in total.
+
+Nov 11th Standup
+
+Jun
+Did:
+     * create sidebar on front-end UI, add logout functionality
+Will do:
+     * list all communities joined within sidebar and list all chats joined within sidebar
+Blocked:
+     * none
+
+Hoang
+Did:
+      *event front end with edit, attend, unattend function
+      * modified community service backend
+Will do:
+     * posts front end for event
+Blocked:
+     * nothing
+
+Smit
+Did:
+     * BES-58 - Did research on working with buckets in to upload blobs
+Will do:
+     * Implement BES-58
+Blocked:
+     * none
+
+Will
+Did:
+    * Nothing
+Will do:
+    * Begin work on subtasks (BES-69, 70, 71)
+    * Add Material-UI to old things
+Blocked:
+    * Nothing
+
+Don
+did:
+     * invite/remove user from chat using email
+Will do:
+     * API to retrieve a list of chats for a specific user
+     * Assist chris on getting started with API development tomorrow
+     * Front end for chatmanagement?
+Blocked:
+     * Nothing

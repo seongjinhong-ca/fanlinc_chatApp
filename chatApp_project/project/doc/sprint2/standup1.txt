@@ -1,0 +1,47 @@
+All standups are copy pasted from our Discord channel, we run standups during weekends too, that is why you see 14 in total.
+
+Oct 22nd Standup
+
+Hoang
+Did:
+    * created endpoint to list community, communities (tree structure)
+    * set up profile service
+    * created endpoints to create user (profile), and user-add-community
+Will do:
+     * sleep
+Blocked:
+     * none
+
+
+Don
+Did
+    * progress for create new chat api
+Will do
+   * continue create new chat api
+Blocked
+  * none
+
+Jun
+Did
+    * finished peer evaluation
+Will do
+    * have sprint 2 meeting
+Blocked
+  * none
+
+Will
+Did:
+     * peer evaluation
+Will do:
+     * have sprint 2 meeting
+     * continue work on uncompleted tasks from last sprint
+Blocked:
+     * nothing
+
+Smit
+Did
+    * finished peer evaluation
+Will do
+    * have sprint 2 meeting
+Blocked
+  * none

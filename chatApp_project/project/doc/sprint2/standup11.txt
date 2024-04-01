@@ -1,0 +1,41 @@
+Nov 1st Standup
+
+Jun
+Did:
+    * not much, midterm tmr
+Will do:
+     * finishing touches to the program
+blocked:
+     * none
+[8:42 PM] Jun: btw still waiting for review https://github.com/UTSCCSCC01/project-best-team/pull/57 @Don
+
+Hoang
+Did:
+     *create event front end
+Will do:
+     *unit tests for community service
+Blocked:
+     *none
+
+Don
+did:
+     *nothing (C73 mid term was this evening)
+will do:
+    * add user
+blocked:
+     * none
+
+Chris
+did: 
+    *learn react
+    *learning spring boot
+    *talked to TA, Professor
+    *tried finalizing the issue with my grade from other course(failed even with the evidence, regret that i spent time on solving this problem)
+
+Will do:
+    *continue learning spring boot
+    *need some adjustments
+    *stop learning react temporarily(learning too much extra just for this)
+
+blocked:
+     *midterms for other courses

@@ -1,0 +1,27 @@
+Oct 24th Standup
+
+Will
+Did:
+     *sprint meeting
+Will do:
+     *learn react
+     * finish backends
+     * take on additional tasks accordingly
+Blocked:
+     *none
+
+Smit
+Did:
+     * sprint meeting
+Will do:
+      * sprint 2 task
+Blocked:
+      * None
+
+Don
+Did:
+     *sprint planning meeting
+Will do:
+      * finish create chat api
+Blocked:
+     * none

@@ -1,0 +1,56 @@
+Nov 4th Standup
+
+Smit
+Did:
+    * connect identity service with front end
+Will do:
+     * sprint 3 planning
+blocked:
+     * none
+
+Hoang
+Did:
+    *review PR
+Will do:
+    *nothing
+Blocked:
+     *nothing
+
+Will
+Did:
+     * React tutorials
+     * BES-30 
+     * Began BES-37
+Will do:
+    * Finish BES-37 
+    * Improve BES-30
+Blocked:
+     * BES-30 Help
+
+Don
+Did:
+     * assisted to get Chris up to speed on the project components
+Will do:
+     * get list of chats given user
+      * remove user
+      * invite user
+      * accept invite
+Blocked:
+       * nothing
+
+Chris
+Did:
+      * got support from Don for the project
+      * got support from Jun for the project
+Will do:
+      * ask for more back end tasks
+Blocked:
+      * maven setup
+
+Jun
+Did:
+      * final documentation revision
+Will do:
+      * sprint 3 planning
+Blocked:
+      * nothing

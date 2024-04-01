@@ -1,0 +1,47 @@
+Oct 26th Standup
+
+Hoang
+Did:
+    *modify community service to disallow delete if subcommunities weren’t deleted, edit parent community to a descendant community
+     *add event task to spriny
+Will do:
+     *event service
+Blocked:
+     *none
+
+Smit
+Did:
+     * Added endpoints to modify user profile
+Will do:
+     * Create user profile front end
+Blocked:
+     * none
+
+Jun
+Did:
+    * Created UI for chat
+Will do:
+    * Integrate chat with WebSocket API
+Blocked:
+    * Chat management API @Don
+
+Don
+Did:
+     * bugfix DAO for chat management due to serialization of POJOS
+     * Chat creation now sets the creator as a user for the chat
+Will do:
+     * Chat creation should set the creator as a mod
+     * Feature to change name of chat
+     * Feature to add/remove user to chat
+     * Set/Remove roles for chat users
+     * API documentation for jun (hopefully by Monday)
+blocked:
+     * None
+
+Chris
+Did: 
+  *learning spring boot, sprint meeting
+WIl do:
+   * start the task on Sunday.
+blocked:
+    *none

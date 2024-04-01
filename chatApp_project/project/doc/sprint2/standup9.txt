@@ -1,0 +1,43 @@
+Oct 30th Standup
+
+Jun
+Did:
+     * basic UI for listing chat rooms
+Will do:
+     * Integrate with the API
+Blocked:
+     * none
+
+Hoang
+Did:
+    *refactor, cleanup some code
+Will do:
+     *ui for creating events
+Blocked:
+     *none
+
+Don
+Did:
+    * nothing
+Will do:
+     * add user
+blocked:
+     * none
+
+Smit
+Did:
+    * nothing
+Will do:
+     * profile front end
+blocked:
+     * none
+
+Will
+Did:
+     * nothing
+Will do:
+     * learn react
+     * do tasks dependent on react (BES-30, 37)
+      * Hoang's Gigantic PR
+Blocked:
+     * nothing

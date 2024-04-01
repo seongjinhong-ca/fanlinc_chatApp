@@ -1,0 +1,29 @@
+<script>
+
+    const PROCESSES = <%- JSON.stringify(processes) %>;
+
+    let socket;
+
+    const app = new Vue({
+        el: '#app',
+        data: {
+            processes: PROCESSES,
+            logs: {},
+            currentProcess: PROCESSES[0][0],
+        },
+        mounted: function() {
+            socket = io();
+            socket.on('log history', logs => {
+                this.logs = logs;
+            });
+            socket.on('log', ({type, name, content}) => {
+                if(!this.logs[name]) this.logs[name] = "";
+                this.logs[name] += content;
+            })
+        },
+        methods: {
+
+        }
+    })
+
+</script>
